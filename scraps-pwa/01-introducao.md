@@ -18,11 +18,12 @@ Geralmente esses chamados são coisas simples e que, geralmente, não necessitam
 - Frequentemente informações acabam se perdendo por ter duas pessoas manipulando a planilha simultaneamente.
 - Não há um registro confiável de quando a solicitação, de fato, aconteceu e nem de quando ela foi atendida.
 
-## Motivação
+## Por que?
 
-Estudar novas tecnologias além de resolver os problemas acima. Esse produto, possivelmente, pode vir a ser disponibilizado no mercado.
+Além de resolver os problemas, estudar novas tecnologias e fornecer uma prova de conceito.  
+Divulgar de forma simples um guia para que iniciantes nessas tecnologias possam criar um projeto simples do começo ao fim.
 
-## O que é uma PWA?
+## PWA, what!?
 
 PWA, Progressive Web Apps, são aplicações web que utilizam de recursos avançados dos navegadores para oferecer uma experiência rica para seus usuários.
 
